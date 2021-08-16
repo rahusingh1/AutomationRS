@@ -1,4 +1,6 @@
-LionTiger
+Hindi
+English
+Tiger
 Elephant
 Raghav
 Rahul

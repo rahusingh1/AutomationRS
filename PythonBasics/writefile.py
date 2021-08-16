@@ -11,7 +11,9 @@
 
 with open("/home/rahul/PycharmProjects/AutomationRS/PythonBasics/new.txt", 'r') as reader:
     content = reader.readlines()
+    print(content)
     reverse = reversed(content)
     with open("/home/rahul/PycharmProjects/AutomationRS/PythonBasics/new.txt", 'w') as writer:
         for line in reverse:
             writer.write(line)
+    print("Code executed successfully")
