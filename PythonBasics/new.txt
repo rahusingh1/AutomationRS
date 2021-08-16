@@ -1,11 +1,4 @@
-Hi 
-This 
-is 
-New
-file 
-to 
-read 
-text 
-from 
-it
-.
+LionTiger
+Elephant
+Raghav
+Rahul
