@@ -20,13 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc24d9d8-a292-4f9e-a626-81a9a709fd07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticeFiles/FunctionalAutomation1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/Radiobuttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/checkbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/explicitwait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/implicitwaits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeFiles/FunctionalAutomationEx2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeFiles/FunctionalAutomationEx3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeFiles/fizzbuzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeFiles/FunctionalAutomation1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeFiles/FunctionalAutomationEx1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +52,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.FunctionalAutomation1">
-    <configuration name="FunctionalAutomation1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FunctionalAutomationEx3">
+    <configuration name="Check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationRS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeFiles/FunctionalAutomation1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeFiles/Check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Radiobuttons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionalAutomationEx1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationRS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticeFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/Radiobuttons.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeFiles/FunctionalAutomationEx1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alerts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionalAutomationEx2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationRS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticeFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/alerts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeFiles/FunctionalAutomationEx2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="explicitwait" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionalAutomationEx3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationRS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticeFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/explicitwait.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeFiles/FunctionalAutomationEx3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="implicitwaits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationRS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticeFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/implicitwaits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticeFiles/c.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FunctionalAutomation1" />
-        <item itemvalue="Python.explicitwait" />
-        <item itemvalue="Python.implicitwaits" />
-        <item itemvalue="Python.alerts" />
-        <item itemvalue="Python.Radiobuttons" />
+        <item itemvalue="Python.FunctionalAutomationEx3" />
+        <item itemvalue="Python.FunctionalAutomationEx2" />
+        <item itemvalue="Python.Check" />
+        <item itemvalue="Python.FunctionalAutomationEx1" />
+        <item itemvalue="Python.c" />
       </list>
     </recent_temporary>
   </component>
@@ -196,22 +194,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="197" key="GridCell.Tab.0.bottom" timestamp="1630429652399">
+    <state x="433" y="270" key="#Updates" timestamp="1630825588693">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="197" key="GridCell.Tab.0.bottom/57.24.1309.744@57.24.1309.744" timestamp="1630429652399" />
-    <state width="1286" height="197" key="GridCell.Tab.0.center" timestamp="1630429652398">
+    <state x="433" y="270" key="#Updates/57.24.1309.744@57.24.1309.744" timestamp="1630825588693" />
+    <state width="1286" height="197" key="GridCell.Tab.0.bottom" timestamp="1630864460525">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="197" key="GridCell.Tab.0.center/57.24.1309.744@57.24.1309.744" timestamp="1630429652398" />
-    <state width="1286" height="197" key="GridCell.Tab.0.left" timestamp="1630429652398">
+    <state width="1286" height="197" key="GridCell.Tab.0.bottom/57.24.1309.744@57.24.1309.744" timestamp="1630864460525" />
+    <state width="1286" height="197" key="GridCell.Tab.0.center" timestamp="1630864460524">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="197" key="GridCell.Tab.0.left/57.24.1309.744@57.24.1309.744" timestamp="1630429652398" />
-    <state width="1286" height="197" key="GridCell.Tab.0.right" timestamp="1630429652399">
+    <state width="1286" height="197" key="GridCell.Tab.0.center/57.24.1309.744@57.24.1309.744" timestamp="1630864460524" />
+    <state width="1286" height="197" key="GridCell.Tab.0.left" timestamp="1630864460523">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="197" key="GridCell.Tab.0.right/57.24.1309.744@57.24.1309.744" timestamp="1630429652399" />
+    <state width="1286" height="197" key="GridCell.Tab.0.left/57.24.1309.744@57.24.1309.744" timestamp="1630864460523" />
+    <state width="1286" height="197" key="GridCell.Tab.0.right" timestamp="1630864460525">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1286" height="197" key="GridCell.Tab.0.right/57.24.1309.744@57.24.1309.744" timestamp="1630864460525" />
     <state width="1286" height="143" key="GridCell.Tab.1.bottom" timestamp="1630409315496">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
