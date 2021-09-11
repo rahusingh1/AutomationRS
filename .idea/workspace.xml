@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc24d9d8-a292-4f9e-a626-81a9a709fd07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/iframes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/isdisplayed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/miscellaneous/chromeOptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/miscellaneous/javascriptexecuter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/seleniumTests/e2eTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSelenium/dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSelenium/dropdown.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.chromeOptions">
+  <component name="RunManager" selected="Python.e2eTest">
     <configuration name="advanceactions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationRS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iframes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="e2eTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomationRS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium/seleniumTests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/iframes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/seleniumTests/e2eTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.e2eTest" />
         <item itemvalue="Python.chromeOptions" />
         <item itemvalue="Python.javascriptexecuter" />
         <item itemvalue="Python.isdisplayed" />
         <item itemvalue="Python.advanceactions" />
-        <item itemvalue="Python.iframes" />
       </list>
     </recent_temporary>
   </component>
@@ -199,22 +195,22 @@
       <screen x="57" y="24" width="1309" height="744" />
     </state>
     <state x="433" y="270" key="#Updates/57.24.1309.744@57.24.1309.744" timestamp="1630825588693" />
-    <state width="1286" height="147" key="GridCell.Tab.0.bottom" timestamp="1631315649924">
+    <state width="1286" height="191" key="GridCell.Tab.0.bottom" timestamp="1631381377868">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="147" key="GridCell.Tab.0.bottom/57.24.1309.744@57.24.1309.744" timestamp="1631315649924" />
-    <state width="1286" height="147" key="GridCell.Tab.0.center" timestamp="1631315649924">
+    <state width="1286" height="191" key="GridCell.Tab.0.bottom/57.24.1309.744@57.24.1309.744" timestamp="1631381377868" />
+    <state width="1286" height="191" key="GridCell.Tab.0.center" timestamp="1631381377867">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="147" key="GridCell.Tab.0.center/57.24.1309.744@57.24.1309.744" timestamp="1631315649924" />
-    <state width="1286" height="147" key="GridCell.Tab.0.left" timestamp="1631315649923">
+    <state width="1286" height="191" key="GridCell.Tab.0.center/57.24.1309.744@57.24.1309.744" timestamp="1631381377867" />
+    <state width="1286" height="191" key="GridCell.Tab.0.left" timestamp="1631381377867">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="147" key="GridCell.Tab.0.left/57.24.1309.744@57.24.1309.744" timestamp="1631315649923" />
-    <state width="1286" height="147" key="GridCell.Tab.0.right" timestamp="1631315649924">
+    <state width="1286" height="191" key="GridCell.Tab.0.left/57.24.1309.744@57.24.1309.744" timestamp="1631381377867" />
+    <state width="1286" height="191" key="GridCell.Tab.0.right" timestamp="1631381377868">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state width="1286" height="147" key="GridCell.Tab.0.right/57.24.1309.744@57.24.1309.744" timestamp="1631315649924" />
+    <state width="1286" height="191" key="GridCell.Tab.0.right/57.24.1309.744@57.24.1309.744" timestamp="1631381377868" />
     <state width="1286" height="143" key="GridCell.Tab.1.bottom" timestamp="1630409315496">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
