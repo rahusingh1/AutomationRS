@@ -10,9 +10,11 @@ driver.get("https://www.rahulshettyacademy.com/angularpractice/")
 driver.find_element_by_css_selector("a[href*='shop']").click()
 
 products = driver.find_elements_by_xpath("//div[@class='card h-100']")
+#//div[@class='card h-100']/div/h4/a
 for product in products:
     productname = product.find_element_by_xpath("div/h4/a").text
     if productname == "Blackberry":
+        # add item to cart
         product.find_element_by_xpath("div/button").click()
 
 driver.find_element_by_css_selector("a.btn-primary").click()
@@ -33,6 +35,6 @@ successmsg = driver.find_element_by_css_selector("div[class*='alert-success']").
 print(successmsg)
 assert "Success!" in successmsg
 
-driver.get_screenshot_as_file("screen.png")   # to get screenshot
+driver.get_screenshot_as_file("screen.png")   # to get screenshot and save as file
 
 driver.close()

@@ -1,0 +1,18 @@
+2021-09-15 10:28:24,516 : INFO : root : Information statement
+2021-09-15 10:28:24,516 : WARNING : root : Something is in warning mode
+2021-09-15 10:28:24,516 : ERROR : root : A major error has happened
+2021-09-15 10:28:24,517 : CRITICAL : root : Critical issue
+2021-09-15 10:34:01,544 : INFO : PyTest.test_logging : Information statement
+2021-09-15 10:34:01,544 : WARNING : PyTest.test_logging : Something is in warning mode
+2021-09-15 10:34:01,544 : ERROR : PyTest.test_logging : A major error has happened
+2021-09-15 10:34:01,545 : CRITICAL : PyTest.test_logging : Critical issue
+2021-09-15 10:34:10,823 : DEBUG : PyTest.test_logging : A debug statement is executed
+2021-09-15 10:34:10,824 : INFO : PyTest.test_logging : Information statement
+2021-09-15 10:34:10,824 : WARNING : PyTest.test_logging : Something is in warning mode
+2021-09-15 10:34:10,825 : ERROR : PyTest.test_logging : A major error has happened
+2021-09-15 10:34:10,825 : CRITICAL : PyTest.test_logging : Critical issue
+2021-09-15 10:34:55,953 : ERROR : PyTest.test_logging : A major error has happened
+2021-09-15 10:34:55,953 : CRITICAL : PyTest.test_logging : Critical issue
+2021-09-15 23:37:25,638 : ERROR : PyTest.test_logging : A major error has happened
+2021-09-16 00:09:12,742 : ERROR : PyTest.test_logging : A major error has happened
+2021-09-16 00:09:12,742 : CRITICAL : PyTest.test_logging : Critical issue
